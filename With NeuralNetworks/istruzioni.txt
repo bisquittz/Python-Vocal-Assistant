@@ -1,0 +1,2 @@
+Run training.py (in this case it's already done and classes.pkl, words.pkl and chatbot_model have been created)
+Run chatbotty.py to run the bot

@@ -1,0 +1,26 @@
+{"intents":  [
+  {"tag":  "greetings",
+  "patterns":  ["Ciao", "holaa", "buongiorno", "eccomi", "greetings","what's up?", "how is it going?"],
+  "responses": ["Ciao a te", "hei!", "come posso aiutarti"]
+  },
+  {"tag":  "aiuto",
+  "patterns":  ["ho bisogno di aiuto", "puo aiutarmi?", "vorrei delle informazioni", "come posso fare?", "vorrei assistenza"],
+  "responses": ["se ha bisogno di aiuto può scriverci un'email al seguente indirizzo : assistenza@assistenza.it", "i nostri contatti sono disponibili sul nostro sito web"]
+  },
+  {"tag":  "orari",
+  "patterns":  ["a che ora posso contattarvi?", "quali orari fa il servizio clienti?", "quando siete disponibili?", "qualè la vostra disponibilità?"],
+  "responses": ["il nostro servizio clienti è disponibile tutti i giorni dalle ore otto alle ore 20"]
+  },
+  {"tag":  "oggetti",
+  "patterns":  ["quali articoli sono disponibili?", "cosa vendete?"],
+  "responses": ["i nostri prodotti sono per persone amanti dello sport", "abbiamo attrezzatura sportiva di qualsiasi tipo"]
+  },
+  {"tag":  "taglia",
+  "patterns":  ["quali sono le taglie disponibili?", "avete taglie per bambini?", "volevo sapere se la mia taglia è disponibile", "quali sono le taglie disponibili"],
+  "responses": ["le nostre taglie variano da una taglia piccola ad una taglia extra-large, sono disponibili anche taglie per i bambini da tre a dodici anni"]
+  },
+  {"tag":  "arrivederci",
+  "patterns":  ["grazie arrivederci", "grazie ciao", "grazie mille e arrivederci", "addio"],
+  "responses": ["torna presto!", "a presto", "grazie ed arrivederci"]
+  }
+]}
